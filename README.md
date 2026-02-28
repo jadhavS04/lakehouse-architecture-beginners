@@ -22,7 +22,8 @@ Popular platforms like **Databricks** have made this architecture practical and 
 - Anyone learning modern data architectures
 
 ## 📖 Read the Full Article
-👉 Medium link: *(https://medium.com/@shubhamjadhav04/lakehouse-architecture-explained-the-data-system-thats-replacing-warehouses-and-lakes-6f0ed643acac)*
+👉 Read the full article on Medium:  
+[Lakehouse Architecture Explained for Beginners](https://medium.com/@shubhamjadhav04/lakehouse-architecture-explained-the-data-system-thats-replacing-warehouses-and-lakes-6f0ed643acac)
 
 ## 🚀 What I’m Learning Next
 - Data Engineering with Databricks
